@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**raian-ruku/raian-ruku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" width="200" border-radius:"10"/>
+  </div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/raian-ruku-526819275/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/raian.ruku">
+    <img src="https://img.shields.io/badge/FACEBOOK-blue?logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="mailto:raianruku21@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-red?logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=raian-ruku&style=flat-square&color=blue" alt=""/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
