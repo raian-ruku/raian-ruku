@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raian-ruku&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raian-ruku&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raian-ruku&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315az4xfki7gkbd2z4ipc52eorpy&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
