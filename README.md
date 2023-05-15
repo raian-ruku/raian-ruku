@@ -16,4 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=raian-ruku&style=flat-square&color=blue" alt=""/>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raian-ruku&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315az4xfki7gkbd2z4ipc52eorpy&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
