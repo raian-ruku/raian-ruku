@@ -17,9 +17,9 @@
   <img src="https://komarev.com/ghpvc/?username=raian-ruku&style=flat-square&color=blue" alt=""/>
 </div>
 
+![Top Langs](https://github-readme-stats-s9vr-git-master-raian-ruku.vercel.app/api/top-langs/?username=raian-ruku&layout=compact&theme=vision-friendly-dark&hide_border=true)<br>
+![Anurag's GitHub stats](https://github-readme-stats-s9vr-git-master-raian-ruku.vercel.app/api?username=raian-ruku&bg_color=000000&title_color=A29E1E&text_color=9FA2A7&hide_border=true)
 
-
-![Anurag's GitHub stats](https://github-readme-stats-s9vr-git-master-raian-ruku.vercel.app/api?username=raian-ruku&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=10) ![Top Langs](https://github-readme-stats-s9vr-git-master-raian-ruku.vercel.app/api/top-langs/?username=raian-ruku&layout=compact&theme=vision-friendly-dark&border_radius=10)
 
 
 
