@@ -5,19 +5,22 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/raian-ruku-526819275/">
-<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/white" />
   </a>
   <a href="https://www.facebook.com/raian.ruku">
-<img height="32" width="32" src="https://cdn.simpleicons.org/facebook/2162E6" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/facebook/white" />
   </a>
   <a href="mailto:raianruku21@gmail.com">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/gmail/EA4335" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/gmail/white" />
   </a>
+   <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/white" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=raian-ruku&style=flat-square&color=blue" alt=""/>
 </div>
 
-![Top Langs](https://github-readme-stats-s9vr-git-master-raian-ruku.vercel.app/api/top-langs/?username=raian-ruku&layout=compact&theme=vision-friendly-dark&hide_border=true)<br>
+
+
+![Top Langs](https://github-readme-stats-s9vr-git-master-raian-ruku.vercel.app/api/top-langs/?username=raian-ruku&layout=compact&theme=vision-friendly-dark&hide_border=true&card_width=450)<br>
 ![Anurag's GitHub stats](https://github-readme-stats-s9vr-git-master-raian-ruku.vercel.app/api?username=raian-ruku&bg_color=000000&title_color=A29E1E&text_color=9FA2A7&hide_border=true)
 
 
