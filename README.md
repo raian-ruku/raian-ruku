@@ -10,12 +10,14 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/white" />
   </a>
   <a href="https://www.facebook.com/raian.ruku">
-<img height="32" width="32" src="https://cdn.simpleicons.org/facebook/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/facebook/FFFAFA" />
   </a>
   <a href="mailto:raianruku21@gmail.com">
     <img height="32" width="32" src="https://cdn.simpleicons.org/gmail/white" />
   </a>
+  <a href="https://www.instagram.com/raian_ruku/">
    <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/white" />
+  </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=raian-ruku&style=flat-square&color=blue" alt=""/>
  
@@ -47,5 +49,5 @@
 
 ---
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315az4xfki7gkbd2z4ipc52eorpy&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+### 🎵 Now Playing
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315az4xfki7gkbd2z4ipc52eorpy&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)
