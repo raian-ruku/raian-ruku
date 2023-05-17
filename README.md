@@ -46,6 +46,11 @@
 ![Top Langs](https://github-readme-stats-s9vr-git-master-raian-ruku.vercel.app/api/top-langs/?username=raian-ruku&layout=compact&theme=vision-friendly-dark&hide_border=true&card_width=450&border_radius=10)<br>
 ![Anurag's GitHub stats](https://github-readme-stats-s9vr-git-master-raian-ruku.vercel.app/api?username=raian-ruku&bg_color=000000&title_color=EC9235&text_color=9FA2A7&hide_border=true&border_radius=10)
 
+---
+### 🏆 My Contributions
+
+![Snake animation](https://github.com/raian-ruku/raian-ruku/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
