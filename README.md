@@ -28,6 +28,15 @@
 </h1>
 
   ### 👨‍💻 About Me
+  I am still a final year student studying in North South University from Bangladesh 🇧🇩. <img src="https://media.giphy.com/media/W0c3xcZ3F1d0EYYb0f/giphy.gif" width="50px" />
+  - 🔭 Exploring Web Dev and Android Dev.
+  - 🎮 Love Gaming 😁
+ ---
+ ### 🌐 Languages
+
+ <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/css3/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/html5/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/firebase/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/django/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/python/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/c/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/c++/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/php/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/linux/white" />
+ 
+
  ---
 
 ![Top Langs](https://github-readme-stats-s9vr-git-master-raian-ruku.vercel.app/api/top-langs/?username=raian-ruku&layout=compact&theme=vision-friendly-dark&hide_border=true&card_width=450)<br>
