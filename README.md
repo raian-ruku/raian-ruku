@@ -15,7 +15,7 @@
   <a href="mailto:raianruku21@gmail.com">
     <img height="32" width="32" src="https://cdn.simpleicons.org/gmail/white" />
   </a>
-  <a href="https://www.instagram.com/raian_ruku/">
+  <a href="https://www.instagram.com/raian._.ruku/">
    <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/white" />
   </a>
   <br>
