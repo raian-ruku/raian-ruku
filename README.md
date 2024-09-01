@@ -19,7 +19,7 @@
    <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/white" />
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=raian-ruku&style=for-the-badge&color=c94b42&abbreviated=true" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=raian-ruku&style=for-the-badge&color=c94b42&abbreviated=true" alt="" style="margin-top:10px"/>
  
 </div>
 
