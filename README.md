@@ -31,13 +31,13 @@
 
   ### 👨‍💻 About Me
   I am still a final year student studying in North South University from Bangladesh 🇧🇩. <img src="https://media.giphy.com/media/W0c3xcZ3F1d0EYYb0f/giphy.gif" width="50px" />
-  - 🔭 Exploring Web Dev and Android Dev.
+  - 🔭 Exploring React Frameworks.
   - 🎮 Love Gaming 😁
  ---
  ### 🌐 Languages
-
- <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/shadcnui/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/framer/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/figma/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/css3/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/html5/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/firebase/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/django/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/python/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/c/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/c++/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/php/white" />
- 
+<div style="display:flex; flex-direction:row; gap:2px;">
+ <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/shadcnui/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/framer/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/figma/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/css3/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/html5/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/firebase/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/python/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/c/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/php/white" />
+ </div>
 
  ---
  ### ⚡ My Stats
