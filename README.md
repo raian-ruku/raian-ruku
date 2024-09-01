@@ -6,7 +6,7 @@
 <div id="badges" align="center">
  
   
-  <a href="https://www.linkedin.com/in/raian-ruku-526819275/">
+  <a href="https://www.linkedin.com/in/raian-ruku/">
 <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/white" />
   </a>
   <a href="https://www.facebook.com/raian.ruku">
