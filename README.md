@@ -49,7 +49,7 @@
 ---
 ### 🏆 My Contributions
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/raian-ruku/raian-ruku/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/raian-ruku/raian-ruku/output/github-contribution-grid-snake.svg-dark" />
 
 
 ---
