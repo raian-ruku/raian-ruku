@@ -36,7 +36,7 @@
  ---
  ### 🌐 Languages
 
- <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/css3/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/html5/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/firebase/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/django/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/python/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/c/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/c++/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/php/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/linux/white" />
+ <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/css3/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/html5/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/firebase/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/django/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/python/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/c/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/c++/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/php/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/white" />
  
 
  ---
