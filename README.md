@@ -42,7 +42,7 @@
  ---
  ### ⚡ My Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raian-ruku&theme=highcontrast&exclude_days=Fri%2CSat)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=raian-ruku&theme=highcontrast&hide_border=true&border_radius=10&exclude_days=Fri%2CSat)](https://git.io/streak-stats)<br>
 ![Top Langs](https://github-readme-stats-r1ht.vercel.app/api/top-langs/?username=raian-ruku&layout=compact&theme=vision-friendly-dark&hide_border=true&card_width=450&border_radius=10)<br>
 ![Anurag's GitHub stats](https://github-readme-stats-r1ht.vercel.app/api?username=raian-ruku&bg_color=000000&title_color=FF5900&text_color=FFFFFF&hide_border=true&border_radius=10)
 
